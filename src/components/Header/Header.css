@@ -1,0 +1,9 @@
+.Header {
+    text-align: center;
+    background-image: linear-gradient(to right, #20E9BF, #19EA6D);
+    padding-block: 20px;
+}
+
+.Header h1 {
+    color: #fff;
+}
